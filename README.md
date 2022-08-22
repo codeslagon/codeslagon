@@ -15,7 +15,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<span style="color: green"> Some green text </span>
+<font color="green"> Some green text </font>
 
 ## Sosyal Platform!
 

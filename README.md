@@ -9,7 +9,7 @@
 [![👤Tag Projem](https://telegra.ph/file/f1e0ce23e42f86ef124a9.jpg)](https://t.me/TaggerLagon_bot)
 
 
-<img src="https://telegra.ph/file/5705b5a9922e03ba96641.jpg" width="200" height="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpqU-wX0vZAwYmU_RvdjlJQvaywMbZPim5g&usqp=CAU" width="200" height="200">
 
 ## Bildiğim Yazılım Dili :
 

@@ -1,4 +1,4 @@
-## Merhaba :wawe:, Github Profilime Hoşgeldin.
+## Merhaba :wave:, Github Profilime Hoşgeldin.
 
 <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" align="right" width="100" height="85">
 
@@ -20,3 +20,6 @@
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/codeslagon)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/QuitBRO)
+
+## My Stats
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=codeslagon&show_icons=true&theme=radical)

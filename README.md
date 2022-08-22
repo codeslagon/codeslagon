@@ -1,4 +1,4 @@
-## Merhaba :name:, Github Profilime Hoşgeldin.
+## Merhaba :wawe:, Github Profilime Hoşgeldin.
 
 <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" align="right" width="100" height="85">
 

@@ -14,7 +14,7 @@
 ## Bildiğim Yazılım Dili :
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<span style="color: green"> Some green text </span>
 
 ## Sosyal Platform!
 

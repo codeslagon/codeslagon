@@ -7,7 +7,7 @@ Ben Yusuf Python ile Telegram Botları Yapıyorum.
 [![👤Tag Projem](https://telegra.ph/file/f1e0ce23e42f86ef124a9.jpg)](https://t.me/TaggerLagon_bot)
 
 
-<img src="https://telegra.ph/file/5705b5a9922e03ba96641.jpg" width="400" height="250">
+<img src="https://telegra.ph/file/5705b5a9922e03ba96641.jpg" width="200" height="200">
 
 ## Bildiğim Yazılım Dili :
 

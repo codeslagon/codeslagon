@@ -1,6 +1,6 @@
 ## Merhaba :wave:, Github Profilime Hoşgeldin.
 
-<img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" align="right" width="150" height="150">
+<img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" align="right" width="100" height="85">
 
 Ben Yusuf Python ile Telegram Botları Yapıyorum.
 [![🎶Müzik Projem](https://telegra.ph/file/74c267f2afeeac5e84b51.jpg)](https://t.me/xLagonMusic_bot)

@@ -8,6 +8,9 @@
 [![🎶Müzik Projem](https://telegra.ph/file/74c267f2afeeac5e84b51.jpg)](https://t.me/xLagonMusic_bot)
 [![👤Tag Projem](https://telegra.ph/file/f1e0ce23e42f86ef124a9.jpg)](https://t.me/TaggerLagon_bot)
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJae_agpt9S3qwWNED0KHcQ?label=YouTube%20Subscribers!&style=social)](https://youtube.com/channel/UC2C3I2xhKd4QcebM9LlXZNA)
+[![Twitter Followers](https://img.shields.io/instagram/follow/codeslagon?label=Twitter%20Followers!&style=social)](https://twitter.com/intent/follow?screen_name=jarrodwattsdev)
+[![GitHub Followers](https://img.shields.io/github/followers/jarrodwatts?label=GitHub%20Followers!&style=social)](https://github.com/jarrodwatts)
 
 <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="200" height="200">
 
